@@ -1,1 +1,2 @@
 iniciando git
+https://www.codeproject.com/Articles/1177391/How-to-Initialize-a-Git-Repository-using-Visual-St
